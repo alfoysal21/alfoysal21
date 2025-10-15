@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing.
 - 🌱 I’m currently learning python.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Nothing is funny anymore.
+- ⚡ Fun fact: Nothing is fun.
 - I like cats.
 
 <!---
