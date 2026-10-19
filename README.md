@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfoysal21
 - 👀 I’m interested in nothing.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning playwright.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing is fun.
 - I like cats.
